@@ -1,0 +1,15 @@
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/build/CMakeFiles/rebuild_cache.dir
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/build/CMakeFiles/edit_cache.dir
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/build/CMakeFiles/redis-cli.dir
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/build/CMakeFiles/redis-server.dir
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/build/deps/CMakeFiles/rebuild_cache.dir
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/build/deps/CMakeFiles/edit_cache.dir
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/build/deps/hiredis/CMakeFiles/rebuild_cache.dir
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/build/deps/hiredis/CMakeFiles/edit_cache.dir
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/build/deps/hiredis/CMakeFiles/hiredis.dir
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/build/deps/linenoise/CMakeFiles/rebuild_cache.dir
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/build/deps/linenoise/CMakeFiles/edit_cache.dir
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/build/deps/linenoise/CMakeFiles/linenoise.dir
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/build/deps/lua/CMakeFiles/rebuild_cache.dir
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/build/deps/lua/CMakeFiles/edit_cache.dir
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/build/deps/lua/CMakeFiles/lua.dir

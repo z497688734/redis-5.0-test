@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/src/crc64.h
+stdint.h
+-
+
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/src/release.c
+string.h
+-
+release.h
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/src/release.h
+version.h
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/src/version.h
+crc64.h
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/src/crc64.h
+
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/src/release.h
+
+/Users/liuhaoyang/2cWorkPlace/redis5.0-cmake/src/version.h
+
